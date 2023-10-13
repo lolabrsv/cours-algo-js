@@ -10,9 +10,6 @@ class Character {
     }
 }
 
-
-
-
 class Trajet {
     constructor(redStop, radio, nbrChange) {
     this.redStop = 30
@@ -58,4 +55,4 @@ while(trajet_on == true) {
     }
     trajet.RedStop()
     trajet.MusicRandom(John)
-   }
+   }*/
