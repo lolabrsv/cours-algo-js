@@ -1,4 +1,4 @@
-/*class Pokemon {
+class Pokemon {
     constructor(name, attack, defense, hp, luck) {
         this.name = name
         this.attack = attack 
@@ -47,6 +47,6 @@ while(Mew.hp >= 0 && Carapuce.hp >= 0) {
     
         }
     }
- }*/
+ }
 
 

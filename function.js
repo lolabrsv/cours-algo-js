@@ -1,4 +1,4 @@
-/*let a = "Jhon"
+let a = "Jhon"
 let b = "Paul" 
 let result = checkName(a, b)
 
@@ -9,4 +9,4 @@ function checkName(prenom1, prenom2){
         return prenom1 + " est différent de " + prenom2
     }
 } 
-console.log(result)*/
+console.log(result)

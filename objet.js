@@ -1,4 +1,4 @@
-/*let student = { 
+let student = { 
     name: "lola",
     favoritefood: "tomate",
     city: "paris",
@@ -12,4 +12,4 @@ if(d%2 == 0 ){
     console.log("pair")
 }else {
     console.log("impair")
-}*/
+}

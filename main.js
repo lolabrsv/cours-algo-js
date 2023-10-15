@@ -1,4 +1,4 @@
-/*let a = 4 
+let a = 4 
 let b = 4
 let c = 3
 if(a==b) {
@@ -9,6 +9,12 @@ if(c<=b && a+c!=3) {
 }else {
     console.log("raté")
 }
+
+
+
+
+
+
 
 let a = 4
 let b = 4
@@ -24,11 +30,19 @@ switch (a) {
         console.log('égal à rien')
 }
 
+
+
+
+
 let a = 127
 
 for(let i = 0; i < a; i++) {
     console.log("oklm")
 }
+
+
+
+
 
 let a = 3 
 while(a < 9) {
@@ -41,4 +55,4 @@ while(a < 9) {
     }
     console.log(a)
 }
-console.log('jai cassé la boucle au bout de '+ a + ' tours')*/
+console.log('jai cassé la boucle au bout de '+ a + ' tours')
